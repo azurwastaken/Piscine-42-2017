@@ -1,8 +1,0 @@
-Credentials cache: API:F4B9238F-1207-4CD9-AD2A-86CDBA30E5D3
-        Principal: mcaseaux@42.FR
-
-  Issued                Expires               Principal
-Jul  3 12:27:45 2017  Jul 10 12:27:45 2017  krbtgt/42.FR@42.FR
-Jul  3 12:27:48 2017  Jul 10 12:27:45 2017  ldap/ldap-proxy.42.fr@42.FR
-Jul  3 12:27:48 2017  Jul 10 12:27:45 2017  HTTP/home-piscine.42.fr@42.FR
-Jul  3 12:47:30 2017  Jul 10 12:27:45 2017  host/vgs-fn1.42.fr@42.FR
